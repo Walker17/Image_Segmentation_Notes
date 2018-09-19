@@ -2,3 +2,5 @@ Real-time Semantic Segmentation of Crop and Weed for Precision
 Agriculture Robots Leveraging Background Knowledge in CNNs: https://arxiv.org/pdf/1709.06764.pdf
 
 Workflow for Object Detection: https://www.kdnuggets.com/2018/05/implement-yolo-v3-object-detector-pytorch-part-1.html
+
+Instance Segmentation: https://engineering.matterport.com/splash-of-color-instance-segmentation-with-mask-r-cnn-and-tensorflow-7c761e238b46
