@@ -15,6 +15,7 @@
 3. A guide to receptive field arithmetic for Convolutional Neural Networks: https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807
 4. Object Localization in Overfeat: https://towardsdatascience.com/object-localization-in-overfeat-5bb2f7328b62
 5. Differences between L1 and L2 as Loss Function and Regularization: http://www.chioka.in/differences-between-l1-and-l2-as-loss-function-and-regularization/
+6. Deeplab Image Semantic Segmentation Network: https://sthalles.github.io/deep_segmentation_network/
 
 #### Useful Blogs:
 1. Hao Gao: https://medium.com/@smallfishbigsea
