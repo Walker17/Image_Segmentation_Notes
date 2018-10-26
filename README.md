@@ -8,6 +8,7 @@
 2. Faster-RCNN: Towards Real-Time Object Detection with Region Proposal Networks: https://arxiv.org/pdf/1506.01497.pdf
 3. Mask-RCNN: https://arxiv.org/pdf/1703.06870.pdf
 4. Unet: https://arxiv.org/pdf/1505.04597.pdf
+5. DeepUnet: https://arxiv.org/pdf/1709.00201.pdf
 
 #### Articles:
 1. Faster R-CNN Explained:https://medium.com/@smallfishbigsea/faster-r-cnn-explained-864d4fb7e3f8
